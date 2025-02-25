@@ -3,9 +3,9 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://arunmozhivinc.github.io",
   author: "Arun Mozhi",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  profile: "https://www.linkedin.com/in/arun-vincily-v-41272b202/",
+  desc: "A minimal, responsive and SEO-friendly Resumae.",
+  title: "Arun Vincily",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -13,7 +13,7 @@ export const SITE: Site = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
-    url: "https://github.com/satnaing/astro-paper/edit/main/src/content/blog",
+    url: "https://github.com/arunmozhivinc/arunmozhivinc.github.io/tree/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },
