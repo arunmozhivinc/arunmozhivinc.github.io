@@ -9,8 +9,8 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  base: "/astro-paper/",
-  outDir: "dist",
+  // base: "/astro-paper/",
+  // outDir: "dist",
   // output: "static",
   integrations: [
     tailwind({
