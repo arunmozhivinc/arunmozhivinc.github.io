@@ -4,7 +4,7 @@ import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
 
 export interface Props {
-  activeNav?: "posts" | "archives" | "tags" | "about" | "search";
+  activeNav?: "projects" | "archives" | "tags" | "about" | "search";
 }
 
 const { activeNav } = Astro.props;
@@ -65,25 +65,25 @@ const { activeNav } = Astro.props;
           </li>
           <li>
             <a
-              href="/posts/"
-              class={activeNav === "posts" ? "active" : ""}
+              href="/projects/"
+              class={activeNav === "projects" ? "active" : ""}
             >
-              Posts
+              Projects
             </a>
           </li>
-          <li>
+          <!-- <li>
             <a
               href="/tags/"
               class={activeNav === "tags" ? "active" : ""}
             >
               Tags
             </a>
-          </li>
+          </li> -->
 
           {
             SITE.showArchives && (
               <li>
-                <LinkButton
+                {/* <LinkButton
                   href="/archives/"
                   className={`focus-outline flex justify-center p-3 sm:p-1`}
                   ariaLabel="archives"
@@ -111,8 +111,15 @@ const { activeNav } = Astro.props;
                   >
                     Archives
                   </span>
-                </LinkButton>
+                </LinkButton> */}
+                <a
+              href="/archives/"
+              class={activeNav === "archives" ? "active" : ""}
+            >
+              Professional
+            </a>
               </li>
+              
             )
           }
           <li>

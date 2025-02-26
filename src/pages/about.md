@@ -29,3 +29,4 @@ Here are certain features of this site.
 - sitemap & rss feed
 - highly customizable
 
+If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  

@@ -83,6 +83,7 @@ const nextPost =
     <Datetime
       pubDatetime={pubDatetime}
       modDatetime={modDatetime}
+      duration={author}
       size="lg"
       className="my-2"
       editPost={editPost}
@@ -92,13 +93,12 @@ const nextPost =
       <Content />
     </article>
 
-    <ul class="my-8">
+    <!-- <ul class="my-8">
       {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} />)}
-    </ul>
+    </ul> -->
 
     <div
-      class="flex flex-col-reverse items-center justify-between gap-6 sm:flex-row-reverse sm:items-end sm:gap-4"
-    >
+      class="flex flex-col items-center justify-center gap-6 sm:flex-row sm:gap-4"    >
       <button
         id="back-to-top"
         class="focus-outline whitespace-nowrap py-1 hover:opacity-75"
@@ -111,10 +111,10 @@ const nextPost =
         <span>Back to Top</span>
       </button>
 
-      <ShareLinks />
+      <!-- <ShareLinks /> -->
     </div>
 
-    <hr class="my-6 border-dashed" />
+    <!-- <hr class="my-6  border-dashed" /> -->
 
     <!-- Previous/Next Post Buttons -->
     <div class="grid grid-cols-1 gap-6 sm:grid-cols-2">
