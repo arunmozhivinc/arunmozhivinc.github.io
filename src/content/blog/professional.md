@@ -15,6 +15,7 @@ description: Full Stack Developer | Java, Spring Boot, React.js, NestJS, Angular
 - [2. Professional Experience](#2-professional-experience)  
 - [3. Skills & Technologies](#3-skills--technologies)  
 - [4. Key Accomplishments](#4-key-accomplishments)  
+- [5. Education](#5-education)
 
 ---
 
@@ -29,7 +30,7 @@ Detail-oriented **Full Stack Developer** with **3+ years** of experience in desi
 ### **PonSun AML Compliance Software**  
 *Full Stack Developer* — *July 2024 – Present*  
 
-**Technologies**: React.js, Spring Boot, MySQL, mssql 
+**Technologies**: React.js, Spring Boot, MySQL, MSSQL  
 
 - Developed scalable and efficient web applications using **Spring Boot**, focusing on **API design** and **backend optimization**.  
 - Built **responsive and interactive user interfaces** using **React.js**, with expertise in **state management, component design with TypeScript, and Ant Design (AntD)**.  
@@ -42,14 +43,14 @@ Detail-oriented **Full Stack Developer** with **3+ years** of experience in desi
 ### **Daypay Technologies**  
 *Software Developer* — *Dec 2021 – June 2024*  
 
-**Technologies**: React.js, NestJS, Java, Spring Boot, Angular, Redux, postgres, mysql  
+**Technologies**: React.js, NestJS, Java, Spring Boot, Angular, Redux, PostgreSQL, MySQL  
 
 - Collaborated with stakeholders, including committee members, to analyze project requirements and design solutions.  
 - Created **comprehensive system designs** outlining architecture, components, and technology stacks.  
 - Developed backend APIs using **Java** and **Spring Boot**, handling complex **business logic and database integration**.  
 - Built user interfaces using **HTML, CSS, Bootstrap**, and frameworks like **Angular and React.js** to ensure **intuitive and responsive UI/UX**.  
 - Implemented **Redux** for state management in complex React applications.  
-- Spearheaded nationwide operations, achieving **20% growth over two years**.
+- Spearheaded nationwide operations, achieving **20% growth over two years**.  
 - Enhanced internal team communication and improved employee retention by introducing **new communication methodologies** and restructuring **employee benefits**.  
 
 ---
@@ -61,7 +62,7 @@ Detail-oriented **Full Stack Developer** with **3+ years** of experience in desi
 | **Languages** | Java, TypeScript, JavaScript, SQL |
 | **Backend**   | Spring Boot, NestJS, Java |
 | **Frontend**  | React.js, Redux, Angular, Vite, Ant Design, Bootstrap |
-| **Database**  | MySQL | postgres | mssql
+| **Database**  | MySQL, PostgreSQL, MSSQL |
 | **DevOps**    | Git |
 | **Others**    | REST API, Microservices, API Integration |
 
@@ -77,5 +78,10 @@ Detail-oriented **Full Stack Developer** with **3+ years** of experience in desi
 
 ---
 
+## **5. Education**  
 
+- **B.E in Engineering**, St. Xavier’s Catholic College of Engineering, Nagercoil — *2016 – 2020* — **65%**  
+- **HSC**, Carmel Hr Sec School, Nagercoil — *2016* — **82.2%**  
+- **SSLC**, Carmel Hr Sec School, Nagercoil — *2014* — **96.2%**  
 
+---
